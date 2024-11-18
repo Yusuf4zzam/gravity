@@ -1,0 +1,6 @@
+.slider {
+  min-height: calc(100vh - 93.08px);
+  a {
+    background: var(--bg-gradiant);
+  }
+}
